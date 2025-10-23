@@ -5,7 +5,6 @@ Repositório criado para armazenar as atividades da disciplina **Gestão e Quali
 📂 Aqui estarão:  
 
 - Atividades práticas individuais
-- Atividades em grupo
-- O **Projeto A3** da disciplina.
+- Atividades em grupo relacionadas as aulas
 
 Luan Bernardo Alves - **RA - 824134204**
